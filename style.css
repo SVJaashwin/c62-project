@@ -1,7 +1,32 @@
 body {
     text-align: center;
 }
-#gride{
- height: 100px;
- width: 100px;
+
+#gride {
+    height: 100px;
+    width: 100px;
+}
+
+.line {
+    height: 6px;
+    width: 100px;
+    background-color: #86fa28;
+    margin: 8px auto;
+}
+
+#slide {
+    height: 100px;
+    width: 100px;
+}
+#myCarousel{
+background-color: deeppink;
+}
+.carousel-inner h3{
+margin-top: 15px;
+margin-bottom:15px;
+color: aquamarine;
+}
+#menu {
+    list-style: none;
+    position: fixed;
 }
